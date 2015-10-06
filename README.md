@@ -1,4 +1,4 @@
 # practica
-Mauricio 
+Mauricio Alvarado Alanis 
 =
-Bases 
+Bases de Datos Avanzadas 
